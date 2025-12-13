@@ -95,7 +95,13 @@ Sidebar (меню навігації)
 ---
 
 # Скріншоти
+![img1](vue1.png)
 
+![img2](vue2.png)
+
+![img3](vue3.png)
+
+![img4](vue4.png)
 
 ---
 
