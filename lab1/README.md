@@ -78,7 +78,11 @@ http://localhost:5173
 - відстежити оновлення стану та LocalStorage
 
 # Скріншоти:
+![img 1](vue1.png)
 
+![img 2](vue2.png)
+
+![img 3](vue3.png)
 
 # Git
 - Робота виконувалась у гілці lab1
