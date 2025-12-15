@@ -20,6 +20,23 @@
 Configured in `main.js` using Aura theme and `ToastService`.
 Components used: `Card`, `Button`, `InputText`, `InputNumber`, `InputMask`, `Textarea`, `Checkbox`, `Toast`, `Accordion`, `Menu`, `Dialog`, etc.
 
+# Скріншоти
+![img.1](1.png)
+
+---
+
+![img.2](2.png)
+
+---
+
+![img.3](3.png)
+
+---
+
+![img.4](4.png)
+
+---
+
 ## CopyToClipboardPlugin
 A custom plugin registered in `main.js`.
 It injects a global `copyToClipboard` function (and `$copyToClipboard`).
