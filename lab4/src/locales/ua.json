@@ -1,0 +1,33 @@
+{
+  "app": {
+    "title": "Profile & Cart"
+  },
+  "nav": {
+    "profile": "Профіль",
+    "cart": "Кошик",
+    "products": "Товари"
+  },
+  "profile": {
+    "title": "Профіль користувача",
+    "name": "Імʼя",
+    "email": "Email",
+    "birthDate": "Дата народження",
+    "address": "Адреса",
+    "phones": "Телефони",
+    "submit": "Зберегти",
+    "reset": "Очистити"
+  },
+  "cart": {
+    "title": "Кошик",
+    "total": "Загальна сума",
+    "clear": "Очистити кошик"
+  },
+  "products": {
+    "title": "Список товарів",
+    "add": "Додати в кошик"
+  },
+  "validation": {
+    "required": "Обовʼязкове поле",
+    "email": "Некоректний email"
+  }
+}

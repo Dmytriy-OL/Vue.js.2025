@@ -1,0 +1,16 @@
+{
+  "profile": {
+    "title": "Profile",
+    "name": "Name",
+    "phones": "Phones"
+  },
+  "cart": {
+    "title": "Cart",
+    "total": "Total",
+    "clear": "Clear cart"
+  },
+  "common": {
+    "save": "Save",
+    "reset": "Reset"
+  }
+}
