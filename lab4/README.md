@@ -46,17 +46,5 @@
 
 ## Скріншоти
 
-### Профіль (Українська версія)
-![Profile UA](./screenshots/profile-ua.png)
-
-### Профіль (Англійська версія)
-![Profile EN](./screenshots/profile-en.png)
-*Зміна мови через LanguageSwitcher впливає на заголовки та лейбли.*
-
-### Валідація форми
-![Validation Errors](./screenshots/profile-errors.png)
-*Червоним підсвічені помилки при спробі зберегти порожню форму (VeeValidate + Yup).*
-
-### Кошик
-![Cart](./screenshots/cart.png)
-*Сторінка кошика, що відображає дані з Pinia Store (`items`, `totalPrice`).*
+### Профіль
+![Profile](1.png)
